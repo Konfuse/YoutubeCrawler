@@ -19,7 +19,7 @@ from googleapiclient.errors import HttpError
 from you_get.extractors import youtube
 from googletrans import Translator
 
-DEVELOPER_KEY = 'AIzaSyCYmnqz3JCzVN9W7iw0Wlpmo_AYhwy5Ofo'
+DEVELOPER_KEY = ''
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
