@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="res/">
+        <file alias="maoyan.png">res/maoyan.png</file>
+        <file alias="btn.wav">res/btn.wav</file>
+        <file alias="finish.wav">res/finish.wav</file>
+        <file alias="style.qss">res/style.qss</file>
+    </qresource>
+</RCC>
